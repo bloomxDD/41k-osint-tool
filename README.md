@@ -5,3 +5,4 @@ Credits goes to the Owner
 
 1. download [python](https://python.org/downloads)
 2. then download [41kosint-tool](https://github.com/joschi3957/41k-osint-tool/archive/refs/heads/main.zip)
+3. Run ```install.bat```
