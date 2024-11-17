@@ -1,6 +1,6 @@
 # 41k-osint-tool
 Credits goes to the Owner
-![Alt text](https://github.com/joschi3957/41k-osint-tool/blob/main/ignore this.png)
+![Alt text](https://github.com/joschi3957/41k-osint-tool/blob/main/ignore-this.png)
 # How to install
 
 1. download [python](https://python.org/downloads)
