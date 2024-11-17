@@ -7,4 +7,4 @@ Credits goes to the Owner
 2. then download [41kosint-tool](https://github.com/joschi3957/41k-osint-tool/archive/refs/heads/main.zip)
 3. Run ```setup.bat```
 
-#I am not responsible for anythings that are be done when using this tool!
+# I am not responsible for anythings that are be done when using this tool!
