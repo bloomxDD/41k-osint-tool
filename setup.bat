@@ -1,3 +1,4 @@
+@echo off
 pip install phonenumbers
 pip install bs4
 pip install requests
