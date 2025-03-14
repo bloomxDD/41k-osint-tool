@@ -10,4 +10,4 @@ Credits goes to the Owner
 # I am not responsible for anything that are be done when using this tool!
 
 # Credits
-Credits goes to [9kis](https://github.com/9kis)
+Credits goes to [uhqm1000](https://github.com/uhqm1000)
