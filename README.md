@@ -8,3 +8,6 @@ Credits goes to the Owner
 3. Run ```setup.bat```
 
 # I am not responsible for anything that are be done when using this tool!
+
+# Credits
+Credits goes to [https://github.com/9kis](9kis)
